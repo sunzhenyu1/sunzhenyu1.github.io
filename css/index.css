@@ -1336,7 +1336,7 @@ body {
   background: var(--global-bg);
   color: var(--font-color);
   font-size: var(--global-font-size);
-  font-family: -apple-system;
+  font-family: sleek;
   line-height: 2;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
@@ -1673,7 +1673,7 @@ blockquote footer cite:before {
 #article-container pre,
 #article-container code {
   font-size: 15px;
-  font-family: JetBrainsMono !important;
+  font-family: sleek !important;
 }
 #article-container code {
   padding: 0.1rem 0.2rem;

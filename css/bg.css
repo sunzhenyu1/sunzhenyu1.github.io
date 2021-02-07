@@ -2,10 +2,11 @@
   background: transparent !important;
 }
 
+
 /* 自定义字体 */
 @font-face {
-    font-family: 'JetBrainsMono';
-    src: url('https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/web/woff2/JetBrainsMono-Regular.woff2');
+    font-family: 'sleek';
+    src: url('https://cdn.jsdelivr.net/gh/lete114/CDN2/zaxiang/sleek.woff2');
 }
 
 /* 博主昵称颜色 */
@@ -268,4 +269,7 @@ i:hover {
     .github-badge .bg-DNS {
         background: linear-gradient(to right, #aa4b6b, #6b6b83, #3b8d99);
     }
+
+
+
 
